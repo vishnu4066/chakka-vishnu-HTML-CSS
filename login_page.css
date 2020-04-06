@@ -1,0 +1,121 @@
+body{
+    font-family: Andale Mono, monospace; 
+ }
+ form{
+     border: 3px solid #f1e7e7;
+     width : 30%;
+     margin : auto;
+ }
+ input[type=text], input[type=password]{
+     width: 90%;
+     padding: 12px 10px;
+     margin: 8px 0;
+     display: inline-block;
+     border: 1px solid #ccc;
+     box-sizing: border-box;
+     
+ }
+ .cancelbtn{
+     width : 20;
+     color:white;
+     float:right;
+     font-size: 120%;
+     padding:-5px 20px;
+     margin-top:15px;
+     text-align: center;
+     background-color: transparent;
+ }
+ text{
+     margin : auto;
+ }
+ #hr{
+     margin-right : 10%;
+ }
+ #img{
+     float : left;
+     width :7%;
+     margin-left: 23px;
+     margin-top :  20px;
+     background-color: transparent;
+ }
+ .container{
+     margin-left : 10%;
+ }
+ 
+ #topbar{
+     background-color: skyblue;
+ }
+ #title{
+     float:center;
+     display: inline-block;
+     width: 70%;
+     height: 4%;
+     margin-top:15px;
+     font-size:20px;
+     background-color: skyblue;
+     color:whitesmoke;
+ }
+ #btn{
+     margin-top: 10px;
+     margin-right: 10px;
+     padding:-5px;
+     float:right;
+     width : 5%;
+     border-radius: 0px;
+     color: whitesmoke;
+ }
+ #btn:hover{
+     color : red;
+ }
+ 
+ h2{
+     text-align: center;
+     background-color: blue;
+ }
+ .si{
+     height: 45px;
+     background-color: skyblue;
+ }
+ .fb{
+     height: 45px;
+     background-color: #3b5998;
+     font-family: Andale Mono, monospace;
+ }
+ .gm{
+     height: 45px;
+     background-color: #de5246;
+     font-family: Andale Mono, monospace;
+ }
+ .epam{
+     height: 45px;
+     background-color: greenyellow;
+     color : whitesmoke;
+     font-size: large;
+     font-family: Andale Mono, monospace;
+     margin-top : 40px;
+     margin-bottom : 40px;
+ }
+ .matter{
+     margin-bottom : 20px;
+ }
+ span.register {
+     float: right;
+     padding-top: 0 px;
+     margin-right : 10%;
+   }
+ button {
+     border-radius: 6px;
+     color: white;
+     padding: 14 px 10px;
+     margin: 8px 0;
+     border: none;
+     cursor: pointer;
+     width: 90%;
+   }
+   #fimg{
+    float : left;
+    width :7%;
+    margin-left: 145px;
+    margin-top :  5px;
+    background-color: transparent;
+}
